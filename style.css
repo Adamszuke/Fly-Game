@@ -1,0 +1,28 @@
+* {
+    font-family: "Poppins", sans-serif;
+    /* Sans-serif retira a curvinha da fonte */
+}
+
+body {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-color: #e0e1dd;
+}
+
+h1 {
+    margin-top: 100px;
+    color: #0d1b2a;
+}
+
+button {
+    border: none;
+    background: none;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
